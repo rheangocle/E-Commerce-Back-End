@@ -18,6 +18,8 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Summary
 
+Sequelize was used with a working Express.js API to interact with a MySQL database. When the server is starter and the user opens Insomnia, they can use the GET routes for categories, products, or tags. The user can use GET routes for individual products, categories, or tags. In addition, POST, PUT, and DELETE routes can be used to create, update, and delete categories, products, or tags data in the database.
+
 ## Software
 
 - Node.js
